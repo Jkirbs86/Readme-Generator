@@ -1,12 +1,14 @@
 # ReadME-Generator
+
 ##Description:
 Generates a professional ReadME generator based on what the user inputs.
+
 ##Table of contents:
-[installation](*installation)
+* installation(#installation)
 *[usage](#usage)
 *[Contributing](#contributing)
-*Tests
-*Questions
+*[Tests](#Tests)
+*[Questions](#Questions)
 
 ##Installation:
 Run npm I
