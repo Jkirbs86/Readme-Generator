@@ -4,7 +4,7 @@
 Generates a professional ReadME generator based on what the user inputs.
 
 ##Table of contents:
-* installation(#installation)
+*[installation](#installation)
 *[usage](#usage)
 *[Contributing](#contributing)
 *[Tests](#Tests)
