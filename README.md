@@ -1,6 +1,6 @@
 # Readme-Generator
   ![Github licence](http://img.shields.io/badge/license-Open-blue.svg)
-  
+  https://www.youtube.com/watch?v=Pic77EmM7jA (walkthrough link)
   ## Description 
   Creates readme prompts for the user to put into their project. 
   ## Table of Contents
